@@ -1,0 +1,7 @@
+{
+  "name": "sticker-album",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
