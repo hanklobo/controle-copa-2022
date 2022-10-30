@@ -1,0 +1,10 @@
+.empty {opacity: 70%;}
+.half {opacity: 85%;}
+.full {opacity: 100%;}
+.section {
+    --background: url(../assets/bg-teams.jpeg);
+}
+.text-white {
+    color: #000000;
+
+}

@@ -1,0 +1,36 @@
+.ion-thumbnail {
+    --size: 140px;
+    --border-radius: 14px;
+}
+.background {
+    --background: url("../assets/background-stickers.jpeg") 0 0/100% 100% no-repeat;
+}
+.card-qatar {
+    --background: url("../assets/logo-qatar.jpeg") 0 0/100% 100% no-repeat;
+    min-height: 7.2rem;
+}
+.card-home {
+    --background: url("../assets/section-background.jpeg") 0 0/100% 100% no-repeat;
+    min-height: 8rem;
+}
+.card-home img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 6rem;
+}
+.card-home .text {
+    font-weight: bolder;
+    color: #e7e7e7;
+    position: absolute;
+    top: 2rem;
+    left: 7.5rem;
+}
+.card-title {
+    font-size: x-large;
+    font-weight: bolder;
+}
+.card-title {
+    font-size: x-large;
+    font-weight: bolder;
+}

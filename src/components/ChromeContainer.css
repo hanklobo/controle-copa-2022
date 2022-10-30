@@ -1,0 +1,17 @@
+.ion-button-padding-zero{
+    margin: 0px 0px 0px 10px;
+    --padding-start: 10px;
+    --padding-end: 10px;
+}
+
+.missing-sticker {
+    /*--background: #f9ffa9;*/
+}
+
+.i-have-sticker {
+    /*--background: #c8f6c8;*/
+}
+
+.repeated-sticker {
+    /*--background: #d6e5ff;*/
+}
